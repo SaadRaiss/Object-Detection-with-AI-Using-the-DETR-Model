@@ -1,4 +1,4 @@
-the DETR model for object detection in images. DETR from Hugging Face is a remarkably powerful model capable of identifying and annotating objects in an image with high accuracy.
+The DETR model for object detection in images. DETR from Hugging Face is a remarkably powerful model capable of identifying and annotating objects in an image with high accuracy.
 
 ✔ Project Objectives:
 Upload an image from the local system.
